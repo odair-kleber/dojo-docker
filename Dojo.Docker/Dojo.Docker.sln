@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma", "Soma\Soma.csproj", "{9A91D8FA-3DCC-40EE-95CD-31DF765B2567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtracao", "Subtracao\Subtracao.csproj", "{429E968D-1B40-44F9-9C4F-3631818157D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A91D8FA-3DCC-40EE-95CD-31DF765B2567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A91D8FA-3DCC-40EE-95CD-31DF765B2567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A91D8FA-3DCC-40EE-95CD-31DF765B2567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A91D8FA-3DCC-40EE-95CD-31DF765B2567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429E968D-1B40-44F9-9C4F-3631818157D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429E968D-1B40-44F9-9C4F-3631818157D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429E968D-1B40-44F9-9C4F-3631818157D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429E968D-1B40-44F9-9C4F-3631818157D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
