@@ -7,6 +7,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Distributable packages
+dist/
+
 # Jetbrain Rider Cache
 .idea/
 Assets/Plugins/Editor/JetBrains*

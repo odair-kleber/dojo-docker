@@ -1,0 +1,1 @@
+dotnet publish Soma/Soma.csproj -c Release -o Soma/dist

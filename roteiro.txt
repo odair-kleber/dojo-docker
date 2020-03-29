@@ -1,0 +1,9 @@
+1. Apresentação PPT
+2. Apresentar comandos básicos do docker. Ex: docker, --version, version, container ls, images, build
+3. Apresentar docker hub (mostrar busca do nginx)
+4. Apresentar hello world html usando nginx (Apresentando docker file, comando build e comando run)
+5. Apresentar hello world console (Inicialmente rodar, depois buildar, mostrar instrução ENTRYPOINT)
+6. Apresentar hello world dotnet web api
+7. Dojo da calculadora
+8. Dojo rabbit (demonstrar build da imagem)
+9. Dojo do web app + web api
