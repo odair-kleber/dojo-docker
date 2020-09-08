@@ -1,5 +1,5 @@
 # Dojo Docker
-Didactic projects developed for [Docker](https://www.docker.com/) _coding dojo_ :smile:
+Didactic projects developed for a [Docker](https://www.docker.com/) _coding dojo_ :smiley:
 
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsTBEE7Cn6gU0dKpMlzy-nn1p1rncPhZ3GyNJVQw8hx-I8-92h)
 
