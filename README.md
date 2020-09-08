@@ -1,5 +1,5 @@
 # Dojo Docker
-Projetos de fins didátivos, desenvolvidos para a aplicação de um _coding dojo_ de [Docker](https://www.docker.com/)
+Projetos de fins didáticos, desenvolvidos para um _coding dojo_ de [Docker](https://www.docker.com/)
 
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsTBEE7Cn6gU0dKpMlzy-nn1p1rncPhZ3GyNJVQw8hx-I8-92h)
 
